@@ -1,0 +1,14 @@
+{
+  "name": "erc20_ext",
+  "version": "1.0.0",
+  "description": "ERC20 Extension Assigment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Ribas",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  }
+}
